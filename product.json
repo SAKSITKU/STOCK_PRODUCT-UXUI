@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Unisex T-Shirt White",
+      "stock": 12,
+      "category": "T-shirts",
+      "location": "3 stores",
+      "status": "Active",
+      "price": 299,
+      "description": "Comfortable cotton t-shirt",
+      "image": "tshirt-white.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Unisex T-Shirt Black",
+      "stock": 8,
+      "category": "T-shirts",
+      "location": "2 stores",
+      "status": "Active",
+      "price": 299
+    }
+  ]
+}
