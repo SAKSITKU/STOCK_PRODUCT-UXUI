@@ -18,7 +18,140 @@
       "category": "T-shirts",
       "location": "2 stores",
       "status": "Active",
-      "price": 299
-    }
-  ]
-}
+      "price": 299,
+      "description": "Classic black cotton t-shirt",
+      "image": "tshirt-black.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Unisex Hoodie Grey",
+      "stock": 5,
+      "category": "Hoodies",
+      "location": "Online only",
+      "status": "Active",
+      "price": 599,
+      "description": "Warm and cozy hoodie for all genders",
+      "image": "hoodie-grey.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Unisex Hoodie Navy",
+      "stock": 3,
+      "category": "Hoodies",
+      "location": "1 store",
+      "status": "Active",
+      "price": 599,
+      "description": "Stylish navy hoodie with soft lining",
+      "image": "hoodie-navy.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Men's Jeans Blue",
+      "stock": 10,
+      "category": "Pants",
+      "location": "All stores",
+      "status": "Active",
+      "price": 799,
+      "description": "Slim fit denim jeans",
+      "image": "jeans-blue.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Women's Leggings Black",
+      "stock": 14,
+      "category": "Pants",
+      "location": "Online only",
+      "status": "Active",
+      "price": 399,
+      "description": "Comfortable black leggings",
+      "image": "leggings-black.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Unisex Jacket Green",
+      "stock": 7,
+      "category": "Jackets",
+      "location": "3 stores",
+      "status": "Active",
+      "price": 899,
+      "description": "Water-resistant jacket with hood",
+      "image": "jacket-green.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Unisex Cap Black",
+      "stock": 20,
+      "category": "Accessories",
+      "location": "All stores",
+      "status": "Active",
+      "price": 199,
+      "description": "Adjustable black cap with logo",
+      "image": "cap-black.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Unisex Beanie Grey",
+      "stock": 15,
+      "category": "Accessories",
+      "location": "Online only",
+      "status": "Active",
+      "price": 149,
+      "description": "Warm grey beanie for winter",
+      "image": "beanie-grey.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Men's Shorts Navy",
+      "stock": 9,
+      "category": "Pants",
+      "location": "2 stores",
+      "status": "Active",
+      "price": 349,
+      "description": "Casual navy shorts for men",
+      "image": "shorts-navy.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Women's Tank Top Pink",
+      "stock": 11,
+      "category": "T-shirts",
+      "location": "Online only",
+      "status": "Active",
+      "price": 249,
+      "description": "Lightweight and breathable tank top",
+      "image": "tanktop-pink.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Men's Polo Shirt Blue",
+      "stock": 6,
+      "category": "T-shirts",
+      "location": "3 stores",
+      "status": "Active",
+      "price": 459,
+      "description": "Casual blue polo shirt",
+      "image": "polo-blue.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Women's Skirt Floral",
+      "stock": 4,
+      "category": "Skirts",
+      "location": "1 store",
+      "status": "Active",
+      "price": 499,
+      "description": "Floral pattern cotton skirt",
+      "image": "skirt-floral.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Unisex Socks White (3 pairs)",
+      "stock": 25,
+      "category": "Accessories",
+      "location": "All stores",
+      "status": "Active",
+      "price": 129,
+      "description": "Soft white cotton socks, pack of 3",
+      "image": "socks-white.jpg"
+    },
+  
